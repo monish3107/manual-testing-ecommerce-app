@@ -28,8 +28,3 @@ Comprehensive manual testing documentation for [AutomationExercise](https://auto
 - **Total Test Cases**: 113
 - **Passed**: 87
 - **Failed**: 5
-- **Defects Identified**: 7
-- **Test Coverage**: Comprehensive e-commerce functionality
-
-## Preview
-[Embed screenshots of key test cases here]
