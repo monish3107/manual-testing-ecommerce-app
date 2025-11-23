@@ -10,7 +10,6 @@ Comprehensive manual testing documentation for [AutomationExercise](https://auto
 | [E-Commerce_Website_Testing_Project.xlsx]([./Test_Cases/E-Commerce_Website_Testing_Project.xlsx](https://docs.google.com/spreadsheets/d/1C9UHfNdYL2qB_N6ZrNEsWZy1HWJUSekPZjz4pGoK4t8/edit?usp=sharing)) | Excel | Complete test suite with all details |
 | [E-Commerce_Test_Cases.pdf](./Test_Cases/E-Commerce_Test_Cases.pdf) | PDF | Printable version with preserved formatting |
 | [test_data.csv](./Test_Cases/test_data.csv) | CSV | Test data sets |
-| [defects_report.csv](./Test_Cases/defects_report.csv) | CSV | Identified defects with severity |
 
 ## Testing Modules Covered
 - Authentication & User Management (15 test cases)
